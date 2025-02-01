@@ -1,0 +1,6 @@
+*.exe
+*.asc
+*.json
+__pycache__/*
+.vscode
+.venv
